@@ -8,5 +8,12 @@
   "dependencies": {
     "nomnoml": "^0.2.0"
   },
-  "keyword":["UML","Nomnoml"]
+  "keyword":["UML","Nomnoml"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiLLa-tc/gitbook-plugin-nomnoml-md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/KiLLa-tc/gitbook-plugin-nomnoml-md#readme"
 }
