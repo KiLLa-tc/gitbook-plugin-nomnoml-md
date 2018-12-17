@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-plugin-nomnoml-md",
+  "version": "1.0.0",
+  "description": "This plugin can render UML diagram using [nomnoml](http://www.nomnoml.com/)",
+  "engines": {
+      "gitbook": ">1.x.x"
+  },
+  "dependencies": {
+    "nomnoml": "^0.2.0"
+  },
+  "keyword":["UML","Nomnoml"]
+}
